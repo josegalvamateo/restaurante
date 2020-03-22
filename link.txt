@@ -1,0 +1,4 @@
+El proyecto so subi a firebase pero no logro entender porquer no abre.
+
+https://proyect-26dea.firebaseapp.com
+Hosting URL: https://proyect-26dea.firebaseapp.com
